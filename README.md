@@ -24,13 +24,10 @@ python -m domainbed.scripts.download --data_dir=/my/datasets/path
 Environment details used for our study.
 
 ```
-Python: 3.8.6
-PyTorch: 1.7.0+cu92
-Torchvision: 0.8.1+cu92
-CUDA: 9.2
-CUDNN: 7603
-NumPy: 1.19.4
-PIL: 8.0.1
+Python: 3.8.13
+PyTorch: 1.12.1
+Torchvision: 0.13.1
+CUDA: 11.3
 ```
 
 ## How to Run
