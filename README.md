@@ -106,8 +106,33 @@ python train_all.py DN0 --dataset DomainNet --data_dir /my/datasets/path --deter
 
 ## Citation
 
-The paper will be published at CVPR 2023.
+Please cite this paper if it helps your research:
 
+```
+cooming soon
+```
+
+Our work is inspired by the following works:
+
+```
+@ARTICLE{2020arXiv201001412F,
+       author = {{Foret}, Pierre and {Kleiner}, Ariel and {Mobahi}, Hossein and {Neyshabur}, Behnam},
+        title = "{Sharpness-Aware Minimization for Efficiently Improving Generalization}",
+         year = 2020,
+          eid = {arXiv:2010.01412},
+       eprint = {2010.01412},
+}
+```
+```
+@inproceedings{
+zhuang2022surrogate,
+title={Surrogate Gap Minimization Improves Sharpness-Aware Training},
+author={Juntang Zhuang and Boqing Gong and Liangzhe Yuan and Yin Cui and Hartwig Adam and Nicha C Dvornek and sekhar tatikonda and James s Duncan and Ting Liu},
+booktitle={International Conference on Learning Representations},
+year={2022},
+url={https://openreview.net/forum?id=edONMAnhLu-}
+}
+```
 ```
 @inproceedings{cha2021swad,
   title={SWAD: Domain Generalization by Seeking Flat Minima},
@@ -116,6 +141,7 @@ The paper will be published at CVPR 2023.
   year={2021}
 }
 ```
+
 
 ## License
 
