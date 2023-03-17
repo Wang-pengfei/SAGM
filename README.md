@@ -95,9 +95,14 @@ python train_all.py DN0 --dataset DomainNet --data_dir /my/datasets/path --deter
 ## Main Results
 
 <p align="center">
-    <img src="./assets/fig2.png" width="80%" />
+    <img src="./assets/main_results.png" width="80%" />
 </p>
 
+## Our searched HPs
+
+<p align="center">
+    <img src="./assets/HP.png" width="80%" />
+</p>
 
 ## Citation
 
