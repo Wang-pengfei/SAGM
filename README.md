@@ -1,5 +1,5 @@
 # SAGM
-The official codes of our CVPR2023 paper: Sharpness-Aware Gradient Matching for Domain Generalization
+The official codes of our CVPR2023 paper: [Sharpness-Aware Gradient Matching for Domain Generalization](https://arxiv.org/pdf/2303.10353.pdf)
 
 In this paper, we present present an algorithm named Sharpness-Aware Gradient Matching (SAGM) to improve model generalization capability.
 Specifically, the optimization objective of SAGM will simultaneously minimize the empirical risk, the perturbed loss (i.e., the maximum loss within a neighborhood in the parameter space), and the gap between them.
