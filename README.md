@@ -5,7 +5,7 @@ In this paper, we present present an algorithm named Sharpness-Aware Gradient Ma
 Specifically, the optimization objective of SAGM will simultaneously minimize the empirical risk, the perturbed loss (i.e., the maximum loss within a neighborhood in the parameter space), and the gap between them.
 
 <p align="center">
-    <img src="./assets/motivation.png" width="80%" />
+    <img src="./assets/motivation.png" width="90%" />
 </p>
 
 Note that this project is built upon [DomainBed@3fe9d7](https://github.com/facebookresearch/DomainBed/tree/3fe9d7bb4bc14777a42b3a9be8dd887e709ec414).
