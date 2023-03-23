@@ -115,7 +115,12 @@ python train_all.py DN0 --dataset DomainNet --data_dir /my/datasets/path --deter
 Please cite this paper if it helps your research:
 
 ```
-cooming soon
+@article{wang2023sharpness,
+  title={Sharpness-Aware Gradient Matching for Domain Generalization},
+  author={Wang, Pengfei and Zhang, Zhaoxiang and Lei, Zhen and Zhang, Lei},
+  journal={arXiv preprint arXiv:2303.10353},
+  year={2023}
+}
 ```
 
 Our work is inspired by the following works:
