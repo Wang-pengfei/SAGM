@@ -118,7 +118,8 @@ Please cite this paper if it helps your research:
 @inproceedings{wang2023sharpness,
   title={Sharpness-Aware Gradient Matching for Domain Generalization},
   author={Wang, Pengfei and Zhang, Zhaoxiang and Lei, Zhen and Zhang, Lei},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={3769--3778},
   year={2023}
 }
 ```
